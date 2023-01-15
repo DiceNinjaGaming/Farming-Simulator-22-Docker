@@ -1,6 +1,8 @@
 # Farming Simulator 22 Docker
 A Docker image for running a Farming Simulator 22 server.
 
+**Due to licensing issues and lack of steamcmd support, this project is placed at the bottom of the backlog and is currently non-functional.**
+
 # Important folders
 | Name | Description |
 | - | - |
