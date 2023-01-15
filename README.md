@@ -1,5 +1,5 @@
-# baseimage
-A base image for game servers
+# Farming Simulator 22 Docker
+A Docker image for running a Farming Simulator 22 server.
 
 # Important folders
 | Name | Description |
